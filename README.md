@@ -12,7 +12,8 @@ add to hosts
 127.0.0.1 site.local
 ```
 
-http://site.local:8080
+http://site.local:8080 \
+http://phpmyadmin.local:8080
 
  
 
